@@ -21,8 +21,6 @@ It uses Mediapipe for pose estimation and a Random Forest Classifier for posture
 - `pose_plank_dataset.csv`: Dataset containing pose landmarks for plank detection.
 - `pose_plank_classifier.pkl`: The trained Random Forest model for posture detection.
 - `main.ipynb`: Jupyter Notebook with code for testing the plank model.
-- `complete_plank_7_7_2025.txt`: Record of the model training and evaluation.
-- `plank_guide.png`: A reference image showing the correct plank posture (optional).
 
 ## How to Run:
 1. **Clone the repository**:
